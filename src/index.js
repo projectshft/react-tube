@@ -5,7 +5,7 @@ import SearchBar from "./components/search_bar";
 import VideoDetail from "./components/video_detail";
 import VideoList from "./components/video_list";
 
-const API_KEY = "AIzaSyAuQCVeNfKhtRk9KlChQPT1nO27DPO_5Ss";
+const API_KEY = "";
 
 const axios = require('axios');
 
